@@ -78,3 +78,34 @@ This program helps in understanding:
 ## Output
 Welcome to Java Programming  
 Welcome to Java Programming
+
+# Java Stack Program
+
+## Description
+This Java program demonstrates the use of the Stack class to store integer elements and remove them using the Last In, First Out (LIFO) principle.
+
+## Program Overview
+The program performs the following operations:
+- Creates a Stack of Integer values
+- Pushes elements onto the stack
+- Checks whether the stack is empty
+- Pops elements from the stack until it becomes empty
+- Prints each removed element to the console
+
+## Key Concepts Used
+- Stack class from java.util
+- push() and pop() operations
+- LIFO (Last In, First Out) behavior
+- while loop for stack traversal
+
+## Purpose
+This program helps in understanding:
+- How a stack works in Java
+- How elements are added and removed from a stack
+- How to use isEmpty() to safely pop elements
+
+## Output
+4  
+3  
+2   
+1  
